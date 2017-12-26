@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">GankGirl</string>
+
+    <string name="moudle_gank">干货</string>
+    <string name="moudle_zb">装逼</string>
+    <string name="idea">还没想好放什么</string>
+
+    <string name="moudle_about">关于</string>
+    <string name="about_me">关于我</string>
+    <string name="github_site">https://github.com/StruggleDreamLin</string>
+    <string name="gank_site">http://gank.io/</string>
+    <string name="zhuangbi_site">https://www.zhuangbi.info/</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string-array name="gank_category">
+        <item>Android</item>
+        <item>iOS</item>
+        <item>福利</item>
+        <item>前端</item>
+        <item>瞎推荐</item>
+        <item>休息视频</item>
+        <item>扩展资源</item>
+    </string-array>
+
+    <string-array name="zhuangbi_keys">
+        <item>装逼</item>
+        <item>在下</item>
+        <item>钱</item>
+        <item>搜索</item>
+    </string-array>
+
+    <string name="no_more_data">已经没有更多数据啦~~</string>
+    <string name="find_no_result">未找到结果</string>
+    <string name="refresh_error">加载失败，请检查网络连接，稍后再试</string>
+
+    <string name="action_save">保存</string>
+    <string name="action_share">分享</string>
+    <string name="action_search">搜索</string>
+    <string name="save_success">图片已保存至 %s 文件夹</string>
+    <string name="save_fail">图片保存失败,请稍后再次尝试!</string>
+    <string name="share_success">分享成功</string>
+    <string name="share_fail">分享失败</string>
+
+    <string name="enter_search">输入搜索关键词</string>
+
+    <string name="share_or_save">保存到手机~~</string>
+
+
+</resources>

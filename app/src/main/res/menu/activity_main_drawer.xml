@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_gank"
+            android:icon="@mipmap/ic_explore_white_48dp"
+            android:title="@string/moudle_gank" />
+        <item
+            android:id="@+id/nav_zb"
+            android:icon="@mipmap/ic_dns_white_48dp"
+            android:title="@string/moudle_zb" />
+        <item
+            android:id="@+id/nav_not_set"
+            android:icon="@mipmap/ic_send_white_48dp"
+            android:title="@string/idea" />
+        <!--    <item
+                android:id="@+id/nav_manage"
+                android:icon="@mipmap/ic_send_white_48dp"
+                android:title="@string/idea" />-->
+    </group>
+
+    <item android:title="@string/moudle_about">
+        <menu>
+            <item
+                android:id="@+id/nav_gank_site"
+                android:icon="@mipmap/ic_favorite_border_white_48dp"
+                android:title="Gank" />
+            <item
+                android:id="@+id/nav_zhuangbi_site"
+                android:icon="@mipmap/ic_face_white_48dp"
+                android:title="Zhuangbi" />
+            <item
+                android:id="@+id/nav_about_me"
+                android:icon="@mipmap/ic_copyright_white_48dp"
+                android:title="@string/about_me"></item>
+
+        </menu>
+
+    </item>
+
+</menu>
