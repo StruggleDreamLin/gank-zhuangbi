@@ -10,6 +10,12 @@ Android学习练习之作..
 - [GankDaily](https://github.com/maoruibin/GankDaily)
 - [RxJavaSamples](https://github.com/rengwuxian/RxJavaSamples)
 
+## 开源库
+- [RxJava/RxAndroid](https://github.com/ReactiveX/RxAndroid)
+- [Retrofit2](https://github.com/square/retrofit)
+- [Butterknife](https://github.com/JakeWharton/butterknife)
+- [Glide](https://github.com/bumptech/glide)
+
 ## 应用展示
 
 - 干货
